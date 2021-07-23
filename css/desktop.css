@@ -1,0 +1,80 @@
+@media only screen and (min-width: 1200px) {
+    .pictutories {
+        height: 500px;
+        margin-left: 2%;
+    }
+
+    .tukbanner {
+        width: 1200px;
+        margin-left: 20%;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .kuybanner {
+        margin-left: 20%;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .yakbanner {
+        margin-left: 20%;
+        margin-top: 40px;
+    }
+
+    .vonanima {
+        margin-left: 39.8%;
+        width: 400px;
+    }
+
+    .helloimg {
+        margin-left: 25%;
+        margin-top: 40px;
+        width: 800px;
+    }
+
+
+
+    .wordbreak {
+        word-wrap: break-word;
+        white-space: pre;
+        word-wrap: break-word;
+    }
+}
+
+/*Y bar selector minimals */
+@media only screen and (min-width:1200px) and (max-width:1389px) {
+
+    .amcharts-range-selector-bottom .amcharts-range-selector-range-wrapper,
+    .amcharts-range-selector-top .amcharts-range-selector-range-wrapper {
+        margin-top: 30px;
+        margin-left: 19%;
+    }
+
+    .amcharts-range-selector-bottom .amcharts-range-selector-period-wrapper,
+    .amcharts-range-selector-top .amcharts-range-selector-period-wrapper {
+        margin-right: 11%;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+}
+
+/*?  bar selector window pc normal width  */
+@media only screen and (min-width: 1390px) {
+
+    .amcharts-range-selector-bottom .amcharts-range-selector-range-wrapper,
+    .amcharts-range-selector-top .amcharts-range-selector-range-wrapper {
+        margin-top: 30px;
+        margin-left: 27%;
+    }
+
+    .amcharts-range-selector-bottom .amcharts-range-selector-period-wrapper,
+    .amcharts-range-selector-top .amcharts-range-selector-period-wrapper {
+        margin-right: 10%;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        width: 35%;
+    }
+
+
+}

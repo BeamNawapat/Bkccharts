@@ -1,0 +1,24 @@
+{
+    "name": "web_v1",
+    "version": "1.0.0",
+    "description": "[Demo][demo-url] | [Documentation][wiki-url] | [Telegram community][telegramcommu-url]",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BeamKunGzMARK/web_V1.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BeamKunGzMARK/web_V1/issues"
+    },
+    "homepage": "https://github.com/BeamKunGzMARK/web_V1#readme",
+    "dependencies": {
+        "percent-value": "^1.0.9",
+        "textversionjs": "^1.1.3"
+    },
+    "devDependencies": {}
+}

@@ -1,0 +1,77 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color:#212121;
+}
+
+.frame{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 65px;
+  width: 350px;
+  position: relative;
+   box-shadow:
+   -7px -7px 20px 0px rgba(255, 255, 255, 0.6),
+   -4px -4px 5px 0px rgba(255, 255, 255, 0.6),
+   7px 7px 20px 0px rgba(255, 255, 255, 0.133),
+   4px 4px 5px 0px rgba(255, 255, 255, 0.067),
+   inset 0px 0px 0px 0px #fff,
+   inset 0px 0px 0px 0px #fff,
+   inset 0px 0px 0px 0px #fff,        
+   inset 0px 0px 0px 0px #fff;
+ transition:box-shadow 0.6s cubic-bezier(.79,.21,.06,.81);
+   border-radius: 10px;
+   background-color: #616161;
+   
+}
+
+.btn{
+  height: 35px;
+  width: 35px;
+  border-radius: 3px;
+  background: #e0e5ec;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: transparent;
+  box-shadow:
+   -7px -7px 20px 0px #fff9,
+   -4px -4px 5px 0px #fff9,
+   7px 7px 20px 0px #0002,
+   4px 4px 5px 0px #0001,
+   inset 0px 0px 0px 0px #fff,
+   inset 0px 0px 0px 0px #fff,
+   inset 0px 0px 0px 0px #fff,        
+   inset 0px 0px 0px 0px #fff;
+ transition:box-shadow 0.6s cubic-bezier(.79,.21,.06,.81);
+  font-size: 16px;
+  text-decoration: none;
+}
+.btn:active{
+  box-shadow:  
+  4px 4px 6px 0 rgba(255, 255, 255, 0.5),
+  -4px -4px 6px 0 rgba(255, 255, 255, 0.2), 
+  inset -4px -4px 6px 0 rgba(255, 255, 255, 0.5),
+  inset 4px 4px 6px 0 rgba(255, 255, 255, 0.3);
+}
+
+.chart{
+  width:97%;
+  height:750px;
+}
+
+h2,h3{
+  color:#fff;
+  font-family: "Mali";
+}
+
+.center{
+    text-align: center;
+}
+

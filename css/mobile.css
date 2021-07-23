@@ -1,0 +1,76 @@
+@media only screen and (min-width: 990px) and (max-width:1199px) {
+    .pictutories {
+        height: 500px;
+        margin-left: 3.5%;
+    }
+
+
+
+    .tukbanner {
+        width: 600px;
+        margin-left: 10% !important;
+
+    }
+
+    .wordbreak {
+        word-wrap: break-word;
+        white-space: pre;
+        word-wrap: break-word;
+    }
+
+    .amcharts-range-selector-bottom .amcharts-range-selector-range-wrapper,
+    .amcharts-range-selector-top .amcharts-range-selector-range-wrapper {
+        margin-top: 30px;
+        margin-left: 18%;
+    }
+
+    .amcharts-range-selector-bottom .amcharts-range-selector-period-wrapper,
+    .amcharts-range-selector-top .amcharts-range-selector-period-wrapper {
+        margin-right: 6%;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        width: 38%;
+    }
+
+    .vonanima {
+        margin-left: 39.8%;
+        width: 350px;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .pictutories {
+        height: 300px;
+        margin-left: 3%;
+    }
+
+
+    .tukbanner {
+        width: 600px;
+        margin-left: 10% !important;
+
+    }
+
+    .wordbreak {
+        word-wrap: break-word;
+        white-space: pre;
+        word-wrap: break-word;
+    }
+
+    .amcharts-range-selector-bottom .amcharts-range-selector-range-wrapper,
+    .amcharts-range-selector-top .amcharts-range-selector-range-wrapper {
+        margin-top: 30px;
+    }
+
+    .amcharts-range-selector-bottom .amcharts-range-selector-period-wrapper,
+    .amcharts-range-selector-top .amcharts-range-selector-period-wrapper {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .vonanima {
+        margin-left: 39.8%;
+        width: 300px;
+    }
+
+}
