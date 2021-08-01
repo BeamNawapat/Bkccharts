@@ -1,8 +1,8 @@
-## Projects Bkccharts.code
+## Projects Bkccharts
 
 [Demo][demo-url] | [Documentation][wiki-url] | [Telegram community][telegramcommu-url]
 
-This repository contains website bkccharts.codes
+This repository contains website bkccharts
 
 The `master` branch contains the current stable version. 
 
@@ -12,8 +12,8 @@ We use GitHub's [Issues tracker][issues-url] for our project. Feel free to creat
 ### Stay Tuned
 [Follow us][telegram-url] on Telegram to receive updates.
 
-[demo-url]: https://www.bkccharts.codes/
-[wiki-url]: https://github.com/BeamKunGzMARK/bkccharts.codes/wiki
-[issues-url]: https://github.com/BeamKunGzMARK/bkccharts.codes/issues
+[demo-url]: https://www.bkccharts.com/
+[wiki-url]: https://github.com/BeamKunGzMARK/Bkccharts/wiki
+[issues-url]: https://github.com/BeamKunGzMARK/Bkccharts/issues
 [telegram-url]: https://t.me/bkccharts
 [telegramcommu-url]: https://t.me/bkcchartsgroup
